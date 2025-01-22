@@ -1,2 +1,1 @@
-# BST
-BST implementation 
+It is simplr BST implemetaion 
